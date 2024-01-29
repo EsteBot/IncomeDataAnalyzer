@@ -1,0 +1,10 @@
+Account Number,Transaction Date,Transaction Amount,Transaction Type,Transaction Description,Balance
+1234,04/30/23,0.43,Credit,Monthly Interest Paid,1849.56
+1234,04/27/23,100.00,Credit,Deposit from 360 Checking XXXXXXX5678,1849.13
+1234,04/01/23,200.00,Credit,Deposit from 360 Checking XXXXXXX5678,1749.13
+1234,03/31/23,0.39,Credit,Monthly Interest Paid,1549.13
+1234,02/28/23,0.32,Credit,Monthly Interest Paid,1548.74
+1234,02/27/23,200.00,Credit,Deposit from 360 Checking XXXXXXX5678,1548.42
+1234,02/04/23,-100.00,Debit,Withdrawal to 360 Checking XXXXXXX5678,1348.42
+1234,01/31/23,0.32,Credit,Monthly Interest Paid,1448.42
+1234,01/30/23,200.00,Credit,Deposit from 360 Checking XXXXXXX5678,1448.10
